@@ -14,9 +14,7 @@ s_files = slicefiles
 
 
 
-# audio_length(s_files)
-# audio_size(s_files)
-# rename_files(files)
+
 
 
 
